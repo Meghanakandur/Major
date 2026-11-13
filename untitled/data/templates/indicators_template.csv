@@ -1,0 +1,2 @@
+asset_id,category,indicator_type,identifier_key,title,base_severity_s0,confidence_c,is_cisa_kev,epss_score,control_factor_gamma,remediation_effort_e,observed_at_t0
+REAL-AST-01,Endpoint Configuration and Patch Indicators,CVE_VULNERABILITY,CVE-2024-3094,Critical SSHD library vulnerability,0.95,0.9,1,0.88,0.8,2.0,2026-11-13T18:25:20.246345+00:00

@@ -1,0 +1,6 @@
+{
+  "name": "SME Cyber Risk Scorer",
+  "description": "A Lightweight Cybersecurity Risk Scoring System for SMEs Using Threat Indicators with SHA-256 Deduplication, Temporal Decay, and Remediation Prioritisation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

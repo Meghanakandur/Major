@@ -1,0 +1,2 @@
+asset_id,asset_name,asset_type,criticality_score,is_internet_facing,owner_department,ip_or_hostname
+REAL-AST-01,Production Web Server,Server,5,1,IT Operations,198.51.100.15
